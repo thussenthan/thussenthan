@@ -7,7 +7,7 @@ I am a passionate computer science researcher and software developer with a focu
 - 🔭 I’m working on **ML model development** (specifically recurrent neural networks (RNN) and long short-term memory (LSTM) models.
 - 🌱 I’m currently learning **bioinformatics**.
 - 💬 Ask me about **computational genomics, machine learning, AI, and neural networks**.
-- 📫 How to reach me: **t.walterangelo@gmail.com** or call me at **+1 (717) 743-2777**.
+- 📫 How to reach me: **t.walterangelo@gmail.com** or at **+1 (717) 743-2777**.
 - ⚡ Fun fact: I was born in **Jaffna, Sri Lanka**.
 
 ## Skills
