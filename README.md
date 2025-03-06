@@ -21,7 +21,7 @@ I am a passionate computer science researcher and software developer with a focu
 
 Here are a few projects I've worked on:
 
-1. **[NLP](https://github.com/thussenthan/NLP)**: An enhanced benchmark for evaluating citation quality in LLM-generated text, building on the ALCE framework (for the COS484 course at Princeton).
+1. **[Enhancing Citation Evaluation in LLMs (NLP)](https://github.com/thussenthan/NLP)**: Developed an enhanced benchmark model for evaluating citation quality in LLM-generated text and improves LLM citation integrity using novel intrinsic confidence metrics (Relevance, Quality, Correctness) over traditional extrinsic metrics (F1 Score, ROUGE-L), building on the ALCE framework (for the COS484 course at Princeton).
 2. **[Senior Thesis](https://github.com/thussenthan/Senior-Thesis_2024)**: A computational study investigating how modulating noradrenergic input affects eyeblink conditioning performance through advanced data processing and statistical analysis for my Princeton University Senior Thesis.
 3. **[Freezerworks Processor](https://github.com/thussenthan/Freezerworks-Processor)**: A Python-based GUI application that automates lab processes, including sample processing, cell freezing, and aliquot assignments in the Freezerworks system, made for the Sholler Lab at the Penn State College of Medicine.
 
