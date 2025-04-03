@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate computer science researcher and software developer with a focus on DNA sequencing and RNA transcriptomics in the field of computational biology. With hands-on experience operating Oxford Nanopore Technologies machines and analyzing their data, I’m dedicated to advancing my expertise in the field. I hold a major in Molecular Biology with minors in Computer Science and Neuroscience from Princeton University (Class of 2024), and I enjoy applying my background and keen interests in machine learning, artificial intelligence, data analysis, web development, automation, and neural networks to solve real-world challenges. I love to explore new technologies and continuously improve my skills.
+I am a passionate computer science researcher and software developer with a focus on DNA sequencing and RNA transcriptomics in computational biology. With hands-on experience operating Oxford Nanopore Technologies machines and analyzing the raw data output, I’m dedicated to advancing my expertise in the field. I hold a major in Molecular Biology with minors in Computer Science and Neuroscience from Princeton University (Class of 2024). Furthermore, I enjoy applying my background and keen interests in machine learning, artificial intelligence, data analysis, web development, automation, and neural networks to solve real-world challenges. I love to explore new technologies and continuously improve my skills.
 
 - 🔭 I’m working on **ML model development** (specifically recurrent neural networks (RNN) and long short-term memory (LSTM) models.
 - 🌱 I’m currently learning **bioinformatics**.
