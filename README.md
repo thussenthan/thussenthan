@@ -13,7 +13,7 @@ I am a passionate computer science researcher and software developer with a focu
 ## Skills
 
 - **Languages:** Python, Java, C++, HTML/CSS, and more.
-- **Frameworks and Libraries:** TensorFlow, along with various bioinformatics and machine learning libraries.
+- **Frameworks and Libraries:** PyTorch, TensorFlow, along with various bioinformatics and machine learning libraries.
 - **Tools and Technologies:** Git, Docker, AWS, Google Cloud, and more.
 - **Research & Development:** DNA sequencing, RNA transcriptomics, computational genomics, machine learning, artificial intelligence, and neural networks.
 
