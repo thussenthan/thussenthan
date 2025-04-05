@@ -2,20 +2,20 @@
 
 ## About Me
 
-I am a passionate computer science researcher and software developer with a focus on DNA sequencing and RNA transcriptomics in computational biology. With hands-on experience operating Oxford Nanopore Technologies machines and analyzing the raw data output, I’m dedicated to advancing my expertise in the field. I hold a major in Molecular Biology with minors in Computer Science and Neuroscience from Princeton University (Class of 2024). Furthermore, I enjoy applying my background and keen interests in machine learning, artificial intelligence, data analysis, web development, automation, and neural networks to solve real-world challenges. I love to explore new technologies and continuously improve my skills.
+I am a passionate computer science researcher and software developer with a focus on DNA sequencing and RNA transcriptomics in computational biology. With hands-on experience operating Oxford Nanopore Technologies machines and analyzing the raw data output, I’m dedicated to advancing my expertise in the field. I majored in Molecular Biology with minors in Computer Science and Neuroscience from Princeton University (Class of 2024). Furthermore, I enjoy applying my background and keen interests in machine learning (ML), artificial intelligence (AI), data analysis, web development, automation, and developing better neural networks to solve real-world challenges. I love to explore new technologies and continuously improve my skills.
 
 - 🔭 I’m working on **ML model development** (specifically recurrent neural networks (RNN) and long short-term memory (LSTM) models).
-- 🌱 I’m currently learning **bioinformatics, DNA/RNA sequencing, and Pathway Analysis (IPA)**.
-- 💬 Ask me about **computational genomics, machine learning, AI, and neural networks**.
+- 🌱 I’m currently learning **bioinformatics, DNA/RNA sequencing, and pathway analysis (IPA)**.
+- 💬 Ask me about **computational genomics, ML/AI, and neural networks**.
 - 📫 How to reach me: **t.walterangelo@gmail.com** or at **+1 (717) 743-2777**.
 - ⚡ Fun fact: I was born in **Jaffna, Sri Lanka**.
 
 ## Skills
 
-- **Languages:** Python, Java, C++, HTML/CSS, and more.
-- **Frameworks and Libraries:** PyTorch, TensorFlow, along with various bioinformatics and machine learning libraries.
-- **Tools and Technologies:** Git, Docker, AWS, Google Cloud, and more.
-- **Research & Development:** DNA sequencing, RNA transcriptomics, computational genomics, machine learning, artificial intelligence, and neural networks.
+- **Languages:** Python, Java, R, C#, HTML/CSS, and more.
+- **Frameworks and Libraries:** PyTorch, TensorFlow, along with various bioinformatics and ML libraries.
+- **Tools and Technologies:** Git, Docker, Google Cloud, AWS, and more.
+- **Research & Development:** DNA sequencing, RNA transcriptomics, computational genomics, ML/AI, and neural networks model development.
 
 ## Projects
 
