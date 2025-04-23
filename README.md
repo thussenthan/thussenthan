@@ -14,7 +14,7 @@ I am a passionate computer science researcher and software developer with a focu
 
 - **Languages:** Python, Java, R, C#, HTML/CSS, and more.
 - **Frameworks and Libraries:** PyTorch, TensorFlow, scikit-learn, along with various bioinformatics and ML libraries.
-- **Tools and Technologies:** Git, Docker, Google Cloud, AWS, and more.
+- **Tools and Technologies:** Git, Docker/Singularity containerization, Google Cloud, AWS, HPC clusters, and more.
 - **Research & Development:** DNA sequencing, RNA transcriptomics, computational genomics, ML/AI, and neural networks model development.
 
 ## Projects
