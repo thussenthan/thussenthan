@@ -30,4 +30,8 @@ Here are a few projects I've worked on:
 
 - [LinkedIn](https://www.linkedin.com/in/thussenthan-walter-angelo/)
 
+## Want to Learn More?
+
+- [My GitHub.io Website](https://thussenthan.github.io/)
+
 Thank you for visiting my profile! 😊
