@@ -1,15 +1,15 @@
-# Hi there, I'm Thussenthan Walter-Angelo! 👋
+# Hi there, I'm Thussenthan Walter-Angelo!
 Research Technologist | Pediatric Oncology | Princeton University '24
 
 ## About Me
 
 I am a passionate computer science researcher interested in machine learning-based approaches in computational biology. With hands-on experience with operating Oxford Nanopore Technologies machines to do DNA sequencing and RNA transcriptomics and analyzing the raw data output, I’m dedicated to advancing my expertise in the field. I majored in Molecular Biology with minors in Computer Science and Neuroscience from Princeton University (Class of 2024). Furthermore, I enjoy applying my background and keen interests in machine learning (ML), artificial intelligence (AI), data analysis, web development, automation, and developing better neural networks to solve real-world challenges. I love to explore new technologies and continuously improve my skills.
 
-- 🔭 I’m working on **ML model development** (specifically transformer encoder based modeling).
-- 🌱 I’m currently learning **bioinformatics, DNA/RNA sequencing, and pathway analysis (IPA)**.
-- 💬 Ask me about **computational genomics, ML/AI, and neural networks**.
-- 📫 How to reach me: **t.walterangelo@gmail.com** or at **+1 (717) 743-2777**.
-- ⚡ Fun fact: I was born in **Jaffna, Sri Lanka**.
+- I’m working on **ML model development** (specifically transformer encoder based modeling).
+- I’m currently learning **bioinformatics, DNA/RNA sequencing, and pathway analysis (IPA)**.
+- Ask me about **computational genomics, ML/AI, and neural networks**.
+- How to reach me: **t.walterangelo@gmail.com**.
+- Fun fact: I was born in **Jaffna, Sri Lanka**.
 
 ## Skills
 
@@ -34,4 +34,4 @@ Here are a few projects I've worked on:
 
 - [My GitHub.io Website](https://thussenthan.github.io/)
 
-Thank you for visiting my profile! 😊
+Thank you for visiting my profile!
