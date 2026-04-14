@@ -28,7 +28,7 @@ Here are a few projects I've worked on:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/thussenthan-walter-angelo/)
+- [LinkedIn](www.linkedin.com/in/thussenthan)
 
 ## Want to Learn More?
 
